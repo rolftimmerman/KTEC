@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KTEC.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "--name Neude"
+    }
+  }
+}
