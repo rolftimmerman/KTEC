@@ -1,6 +1,6 @@
 using System;
 
-namespace KTEC.API
+namespace KTEC.Blazor.Data
 {
     public class WeatherForecast
     {
